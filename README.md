@@ -1,0 +1,3 @@
+- 👋 Hi, I’m mr fovos
+- 👀 I’m interested in Ethical hacking , C++ , JS ,JAVA , C# , Python
+- 🌱 I’m currently learning Blockchain
